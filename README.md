@@ -7,7 +7,7 @@ categories: [projects, python]
 
 In today’s world, messaging apps like WhatsApp have become the primary way we communicate with friends, family, and colleagues. Every day, billions of messages are exchanged, forming rich datasets full of untapped information. Have you ever wondered what stories your WhatsApp chat history could tell about your relationships and communication habits? That’s where my **WhatsApp Chat Analyzer** comes in—a Python-based tool designed to unlock fascinating insights from your conversations and help you understand your messaging patterns on a deeper level.
 
-## 🔍 What Is the WhatsApp Chat Analyzer?
+## What Is the WhatsApp Chat Analyzer?
 
 The WhatsApp Chat Analyzer is a project I developed to parse and analyze exported WhatsApp chat logs. By turning raw chat data into meaningful statistics and visualizations, the analyzer transforms your plain-text chat files into a dynamic overview of your interactions.
 
