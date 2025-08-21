@@ -65,7 +65,7 @@ WhatsApp chats are a rich source of social data, yet few people have the tools o
 
 Understanding your messaging habits can help improve communication, spot unusual activity, or simply satisfy curiosity. For researchers, it can serve as a base for studying social interactions or linguistic trends.
 
-## 📂 How to Use the WhatsApp Chat Analyzer
+## How to Use the WhatsApp Chat Analyzer
 
 1. Clone the repository from GitHub.
 2. Ensure you have Python installed, along with dependencies listed in `requirements.txt`.
