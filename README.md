@@ -59,7 +59,7 @@ The WhatsApp Chat Analyzer is built with a strong Python stack:
 
 These tools together provide a powerful yet accessible framework for anyone interested in data analysis or Python programming to engage with their personal chat data.
 
-## 🚀 Why This Project Matters
+##  Why This Project Matters
 
 WhatsApp chats are a rich source of social data, yet few people have the tools or skills to analyze them. This project democratizes access to that information by providing a simple, open-source tool that anyone can use.
 
