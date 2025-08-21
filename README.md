@@ -103,4 +103,4 @@ Thank you for reading, and happy analyzing!
 
 ---
 
-👉 [Explore the WhatsApp Chat Analyzer on GitHub](https://github.com/Prem23-04/Whatsapp_Chat_Analyzer)
+[Explore the WhatsApp Chat Analyzer on GitHub](https://github.com/Prem23-04/Whatsapp_Chat_Analyzer)
