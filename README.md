@@ -105,4 +105,4 @@ Thank you for reading, and happy analyzing!
 
 [Explore the WhatsApp Chat Analyzer on GitHub](https://github.com/Prem23-04/Whatsapp_Chat_Analyzer)
 
-[My other projects are saved on github you can have the permission to access](https://github.com/Prem23-04)
+[My other projects are saved on github you also have the permission to access](https://github.com/Prem23-04)
