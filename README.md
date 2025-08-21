@@ -9,7 +9,7 @@ categories: [projects, python]
 
 Have you ever wondered what patterns lie hidden in your WhatsApp conversations? With my **WhatsApp Chat Analyzer**, you can now explore your chat data like never before!
 
-## 🔍 Project Overview
+##  Project Overview
 
 The WhatsApp Chat Analyzer is a Python-based tool that parses and analyzes your exported WhatsApp chats. It provides useful insights such as:
 
@@ -19,7 +19,7 @@ The WhatsApp Chat Analyzer is a Python-based tool that parses and analyzes your 
 - Media and link sharing stats
 - Chat sentiment (optional)
 
-## 📁 How It Works
+##  How It Works
 
 1. **Export your chat** from WhatsApp (without media).
 2. Upload the `.txt` file into the analyzer.
@@ -27,7 +27,7 @@ The WhatsApp Chat Analyzer is a Python-based tool that parses and analyzes your 
 
 It’s a great way to reflect on conversations, find trends, or even just have fun seeing who sends the most messages 😄
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -35,12 +35,12 @@ It’s a great way to reflect on conversations, find trends, or even just have f
 - Regular Expressions
 - (Optional) Streamlit for UI
 
-## 🚀 Live Demo / GitHub Repo
+##  Live Demo / GitHub Repo
 
 You can check out the project here:  
-👉 [GitHub Repository](https://github.com/Prem23-04/Whatsapp_Chat_Analyzer)
+ [GitHub Repository](https://github.com/Prem23-04/Whatsapp_Chat_Analyzer)
 
-## 💡 What's Next?
+##  What's Next?
 
 Here are a few planned improvements:
 
@@ -48,7 +48,7 @@ Here are a few planned improvements:
 - Create a full web interface with Streamlit or Flask
 - Export report as PDF
 
-## 📸 Screenshots
+##  Screenshots
 
 You can include screenshots from your tool here if you’ve generated any visualizations.
 
@@ -56,4 +56,4 @@ You can include screenshots from your tool here if you’ve generated any visual
 
 Thanks for reading! If you have any suggestions or want to collaborate, feel free to open an issue or pull request on GitHub.
 
-Happy analyzing! 📊💬
+Happy analyzing! 
