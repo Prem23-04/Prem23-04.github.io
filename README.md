@@ -47,7 +47,7 @@ Using **Pandas**, the tool structures this raw data into dataframes for easy man
 
 These visuals bring your chat data to life, making it both informative and fun to explore.
 
-## 🧰 Technologies Behind the Project
+## Technologies Behind the Project
 
 The WhatsApp Chat Analyzer is built with a strong Python stack:
 
