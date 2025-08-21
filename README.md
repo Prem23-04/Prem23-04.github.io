@@ -93,7 +93,7 @@ Visualizations are at the heart of the analyzer. Imagine seeing a heatmap that s
 
 I plan to include sample screenshots and demo visualizations in upcoming posts, so stay tuned!
 
-## 💬 Final Thoughts
+##  Final Thoughts
 
 Developing the WhatsApp Chat Analyzer has been an exciting journey combining my passion for Python programming and data science. I hope this tool inspires you to explore your own data and discover new stories hidden in everyday conversations.
 
