@@ -87,7 +87,7 @@ The project is constantly evolving. Here’s what I’m planning to add next:
 
 Contributions and feedback are always welcome via GitHub!
 
-## 📸 Visuals: Bringing Data to Life
+##  Visuals: Bringing Data to Life
 
 Visualizations are at the heart of the analyzer. Imagine seeing a heatmap that shows when your group chat is most active during the day or a bar chart ranking participants by message count. These graphical insights make it easier to understand complex data quickly.
 
