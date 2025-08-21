@@ -75,7 +75,7 @@ Understanding your messaging habits can help improve communication, spot unusual
 
 This ease of use means you don’t need to be a data scientist to start learning from your conversations.
 
-## 🌟 Planned Features and Improvements
+##  Planned Features and Improvements
 
 The project is constantly evolving. Here’s what I’m planning to add next:
 
