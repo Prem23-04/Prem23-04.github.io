@@ -20,7 +20,7 @@ It helps answer questions like:
 
 By leveraging data science techniques, the tool makes it easy to explore the nuances of your messaging habits and discover patterns you might never have noticed otherwise.
 
-## 🛠️ How Does It Work?
+## How Does It Work?
 
 ### Step 1: Export Your Chat
 
